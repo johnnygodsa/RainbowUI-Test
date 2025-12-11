@@ -3,7 +3,7 @@
 -- Localized Lua globals.
 -- ----------------------------------------------------------------------------
 -- Functions
-local _G = getfenv(0)
+0946local _G = getfenv(0)
 local GetBuildInfo = _G.GetBuildInfo
 
 -- Libraries
