@@ -1,5 +1,5 @@
 --[[ $Id: CallbackHandler-1.0.lua 1298 2022-12-12 15:10:10Z nevcairiel $ ]]
-aaalocal MAJOR, MINOR = "CallbackHandler-1.0", 8
+addonIdlocal MAJOR, MINOR = "CallbackHandler-1.0", 8
 local CallbackHandler = LibStub:NewLibrary(MAJOR, MINOR)
 
 if not CallbackHandler then return end -- No upgrade needed
