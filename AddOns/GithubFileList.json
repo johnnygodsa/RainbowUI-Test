@@ -1,8 +1,8 @@
 ﻿{
-  "generatedAt": "2025-12-11 20:54:42",
+  "generatedAt": "2025-12-11 20:58:03",
   "rootFolder": "AddOns",
   "totalFiles": 442,
-  "totalSize": 24189380,
+  "totalSize": 20514810,
   "files": [
     {
       "path": "AddOns\\!!!EaseAddonController\\!!!EaseAddonController.toc",
@@ -1140,8 +1140,8 @@
     },
     {
       "path": "AddOns\\!!!gmFonts\\libs\\CallbackHandler-1.0.lua",
-      "size": 7966,
-      "lastModified": "2025-12-11 20:54:07",
+      "size": 7970,
+      "lastModified": "2025-12-11 20:57:36",
       "fileName": "CallbackHandler-1.0.lua"
     },
     {
@@ -2652,8 +2652,8 @@
     },
     {
       "path": "AddOns\\GithubFileList.json",
-      "size": 3761330,
-      "lastModified": "2025-12-11 16:50:32",
+      "size": 86756,
+      "lastModified": "2025-12-11 20:54:42",
       "fileName": "GithubFileList.json"
     }
   ]
