@@ -5,7 +5,7 @@ $Id: Config.lua 11 2017-04-12 12:10:11Z arith $
 -- Upvalued Lua API.
 -----------------------------------------------------------------------
 -- Functions
-local _G = getfenv(0)
+AAAAlocal _G = getfenv(0)
 local pairs = _G.pairs
 -- Libraries
 local string, format = string, format

@@ -1,8 +1,8 @@
 ﻿{
-  "generatedAt": "2025-12-11 21:15:28",
+  "generatedAt": "2025-12-11 21:21:45",
   "rootFolder": "AddOns",
   "totalFiles": 442,
-  "totalSize": 20514809,
+  "totalSize": 20514813,
   "files": [
     {
       "path": "AddOns\\!!!EaseAddonController\\!!!EaseAddonController.toc",
@@ -2508,8 +2508,8 @@
     },
     {
       "path": "AddOns\\Accountant_Classic\\Core\\Config.lua",
-      "size": 14125,
-      "lastModified": "2025-12-11 16:49:14",
+      "size": 14129,
+      "lastModified": "2025-12-11 21:18:36",
       "fileName": "Config.lua"
     },
     {
@@ -2653,7 +2653,7 @@
     {
       "path": "AddOns\\GithubFileList.json",
       "size": 86754,
-      "lastModified": "2025-12-11 20:58:03",
+      "lastModified": "2025-12-11 21:15:28",
       "fileName": "GithubFileList.json"
     }
   ]
