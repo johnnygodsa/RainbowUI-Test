@@ -6,7 +6,7 @@
 -- by Tekkub: http://www.tekkub.net/addons
 
 
-local ADDON = ...
+Alocal ADDON = ...
 
 local size={}
 local prgname = "|cffffd200"..ADDON.."|r"
