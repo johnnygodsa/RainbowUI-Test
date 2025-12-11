@@ -1,8 +1,8 @@
 ﻿{
-  "generatedAt": "2025-12-12 06:52:59",
+  "generatedAt": "2025-12-12 07:10:10",
   "rootFolder": "AddOns",
-  "totalFiles": 5,
-  "totalSize": 684,
+  "totalFiles": 4,
+  "totalSize": 11,
   "files": [
     {
       "path": "AddOns\\A\\A1",
@@ -19,7 +19,7 @@
     {
       "path": "AddOns\\C\\C1",
       "size": 2,
-      "lastModified": "2025-12-11 22:11:40",
+      "lastModified": "2025-12-12 07:09:38",
       "fileName": "C1"
     },
     {
@@ -27,12 +27,6 @@
       "size": 2,
       "lastModified": "2025-12-11 22:20:25",
       "fileName": "D1"
-    },
-    {
-      "path": "AddOns\\GithubFileList.json",
-      "size": 673,
-      "lastModified": "2025-12-11 22:20:33",
-      "fileName": "GithubFileList.json"
     }
   ]
 }
