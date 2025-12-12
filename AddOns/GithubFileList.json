@@ -1,8 +1,8 @@
 ﻿{
-  "generatedAt": "2025-12-12 07:41:59",
+  "generatedAt": "2025-12-12 09:33:35",
   "rootFolder": "AddOns",
-  "totalFiles": 19627,
-  "totalSize": 597065158,
+  "totalFiles": 19628,
+  "totalSize": 600826396,
   "files": [
     {
       "path": "AddOns\\!!!EaseAddonController\\!!!EaseAddonController.toc",
@@ -42,8 +42,8 @@
     },
     {
       "path": "AddOns\\!!!EaseAddonController\\Configs\\_CfgDefaults.lua",
-      "size": 124050,
-      "lastModified": "2025-12-10 16:18:06",
+      "size": 124065,
+      "lastModified": "2025-12-12 09:32:12",
       "fileName": "_CfgDefaults.lua"
     },
     {
@@ -47715,6 +47715,12 @@
       "size": 560,
       "lastModified": "2025-12-10 16:18:06",
       "fileName": "GatherMate2Storage_Midnight.toc"
+    },
+    {
+      "path": "AddOns\\GithubFileList.json",
+      "size": 3761223,
+      "lastModified": "2025-12-12 07:42:01",
+      "fileName": "GithubFileList.json"
     },
     {
       "path": "AddOns\\GladiatorlosSA_zhCN\\GladiatorlosSA_zhCN.lua",
